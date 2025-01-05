@@ -5,6 +5,9 @@ Object detection and tracking are key components in computer vision used to iden
 
 This documentation outlines the concepts and steps involved, focusing on the provided workflows.
 
+
+![Snippet of our bounding box selection](content/car1.png)
+
 ---
 
 # **1. Basics of Object Detection and Tracking**
