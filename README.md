@@ -96,7 +96,7 @@ This pipeline demonstrates edge detection using a series of image processing tec
 
 # **4. Workflow 3: ORB-Based Feature Tracking**
 
-[Watch the video](videos/car_in_dirt.mp4)
+![Snippet of our bounding box selection](content/car2.png)
 
 
 ### **Purpose:**
